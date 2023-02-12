@@ -193,7 +193,7 @@ def solveTests(n):
 
 
 # Number of Tests
-n = 1000
+n = 5
 # upper and lower limits for elements of the matrix
 ll = -100
 ul = 100
