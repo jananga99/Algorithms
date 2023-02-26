@@ -15,6 +15,9 @@ Algorithms
 &emsp;&emsp;|--Brute force  
 &emsp;&emsp;|--Local search  
 &emsp;&emsp;|--Dynamic Programming  
+&emsp;|--3-SAT    
+&emsp;&emsp;|--Recursion  
+&emsp;&emsp;|--Check ball  
 |--NP Reductions  
 &emsp;|--Graph colouring to SAT   
 &emsp;|--Hamiltonian (TSP) to SAT    
