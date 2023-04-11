@@ -20,4 +20,7 @@ Algorithms
 &emsp;&emsp;|--Check ball  
 |--NP Reductions  
 &emsp;|--Graph colouring to SAT   
-&emsp;|--Hamiltonian (TSP) to SAT    
+&emsp;|--Hamiltonian (TSP) to SAT   
+|--Grapg Algorithms        
+&emsp;|--Reachability     
+&emsp;|--Number_Of_Connected_Components      

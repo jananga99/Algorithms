@@ -1,0 +1,1 @@
+A simple (no self-loops or parallel edges) graph is given.
