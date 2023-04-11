@@ -21,6 +21,8 @@ Algorithms
 |--NP Reductions  
 &emsp;|--Graph colouring to SAT   
 &emsp;|--Hamiltonian (TSP) to SAT   
-|--Grapg Algorithms        
+|--Graph Algorithms   
+&emsp;|--Acyclicity     
 &emsp;|--Reachability     
-&emsp;|--Number_Of_Connected_Components      
+&emsp;|--Number_Of_Connected_Components  
+&emsp;|--Number_Of_Strongly_Connected_Components  
