@@ -22,7 +22,13 @@ Algorithms
 &emsp;|--Graph colouring to SAT   
 &emsp;|--Hamiltonian (TSP) to SAT   
 |--Graph Algorithms   
-&emsp;|--Acyclicity     
-&emsp;|--Reachability     
-&emsp;|--Number_Of_Connected_Components  
-&emsp;|--Number_Of_Strongly_Connected_Components  
+&emsp;|--DFS  
+&emsp;&emsp;|--Acyclicity     
+&emsp;&emsp;|--Reachability     
+&emsp;&emsp;|--Number_Of_Connected_Components  
+&emsp;&emsp;|--Number_Of_Strongly_Connected_Components  
+&emsp;|--BFS  
+&emsp;&emsp;|--Uniform weight  
+&emsp;&emsp;&emsp;|--Shortest path length   
+&emsp;&emsp;&emsp;|--Is bi partite graph 
+
