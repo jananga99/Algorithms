@@ -30,5 +30,10 @@ Algorithms
 &emsp;|--BFS  
 &emsp;&emsp;|--Uniform weight  
 &emsp;&emsp;&emsp;|--Shortest path length   
-&emsp;&emsp;&emsp;|--Is bi partite graph 
+&emsp;&emsp;&emsp;|--Is bi partite graph    
+&emsp;&emsp;|--Shortest Path    
+&emsp;&emsp;&emsp;|--Bellaman Ford  
+&emsp;&emsp;&emsp;&emsp;|--Are negative cyles in a disconnected graph   
+&emsp;&emsp;&emsp;&emsp;|--Find shortest distance, unreachble, negative infonte nodes separately   
+&emsp;&emsp;&emsp;|--Dijkstra 
 
