@@ -1,0 +1,8 @@
+Given 𝑛 points on a plane and an integer 𝑘, compute the largest possible value of 𝑑 such that the
+given points can be partitioned into 𝑘 non-empty subsets in such a way that the distance between any
+two points from different subsets is at least 𝑑.
+
+Input Format. The first line contains the number 𝑛 of points. Each of the following 𝑛 lines defines a point
+(𝑥𝑖 , 𝑦𝑖 ). The last line contains the number 𝑘 of clusters.
+
+Constraints. 2 ≤ 𝑘 ≤ 𝑛 ≤ 200; −103 ≤ 𝑥𝑖 , 𝑦𝑖 ≤ 103 are integers. All points are pairwise different.
